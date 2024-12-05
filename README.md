@@ -1,4 +1,4 @@
-Click above PDF file named **"`Prathamesh_Bhagat...`"**   or [here](https://github.com/PrathameshBhagat/Resume/blob/main/Prathamesh_Bhagat_BTech_Resume.pdf) **to view** the Resume.
+Click above PDF file named **"`Prathamesh_Bhagat_BTech_Resume.pdf`"**   or [here](https://github.com/PrathameshBhagat/Resume/blob/main/Prathamesh_Bhagat_BTech_Resume.pdf) **to view** the Resume.
 
 OR 
 
